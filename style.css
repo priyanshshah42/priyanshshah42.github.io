@@ -1,0 +1,17 @@
+body, html {
+    background-color: turquoise;
+}
+
+h1 {
+    color: red;
+    font-size: 72px;
+}
+
+.bruh {
+    color: green;
+}
+
+.main {
+    padding-left: 10vw;
+    padding-top: 20vh;
+}
