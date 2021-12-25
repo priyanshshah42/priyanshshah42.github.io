@@ -387,21 +387,21 @@ a img.aligncenter {
 }
 
 .icon {
-    margin-top: 1cm;
+    margin-top: 2.25%;
 }
 
 .linkedin-icon {
-    color: #21759b;
+    color: #0077b5;
 }
 
 .github-icon {
-    color: rgb(120, 71, 160);
-    margin-left: 0.75cm;
-    margin-right: 0.75cm;
+    color: #6e5494;
+    margin-left: 2%;
+    margin-right: 2%;
 }
 
 .email-icon {
-    color: #ffffff;
+    color: #cecece;
 }
 
 .cd-words-wrapper {
