@@ -386,6 +386,24 @@ a img.aligncenter {
 	color: ffffff;
 }
 
+.icon {
+    margin-top: 1cm;
+}
+
+.linkedin-icon {
+    color: #21759b;
+}
+
+.github-icon {
+    color: rgb(120, 71, 160);
+    margin-left: 0.75cm;
+    margin-right: 0.75cm;
+}
+
+.email-icon {
+    color: #ffffff;
+}
+
 .cd-words-wrapper {
   display: inline-block;
   position: relative;
